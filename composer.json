@@ -1,0 +1,10 @@
+{
+  "name": "ZaawansowanePHP/kurs",
+  "description": "Opis",
+  "type": "project",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "require": {
+    "phpunit/phpunit": "*"
+  }
+}
